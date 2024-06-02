@@ -1,0 +1,15 @@
+{
+  "originHash" : "4fd2ef23620681027e78f0a81a464ddde3c74ca9b22efd6d510718e6c4b59cec",
+  "pins" : [
+    {
+      "identity" : "nvactivityindicatorview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ninjaprox/NVActivityIndicatorView.git",
+      "state" : {
+        "revision" : "121455c4e630fcb95aaefd7e4257b0c2e3cfe6d5",
+        "version" : "5.2.0"
+      }
+    }
+  ],
+  "version" : 3
+}
